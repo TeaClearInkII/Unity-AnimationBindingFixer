@@ -7,4 +7,4 @@ Quickly fix missing animation property objects caused by renaming or re-parentin
 
 茶清墨刂 & DeepSeek
 
-![alt text](https://github.com/TeaClearInkII/Unity-AnimationBindingFixer/blob/main/界面展示.png?raw=true)
+![界面展示](./界面展示.png)
