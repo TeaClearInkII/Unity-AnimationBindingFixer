@@ -6,3 +6,5 @@ Unity-AnimationBindingFixer-动画绑定修复器
 Quickly fix missing animation property objects caused by renaming or re-parenting objects
 
 茶清墨刂 & DeepSeek
+
+![alt text](https://github.com/TeaClearInkII/Unity-AnimationBindingFixer/blob/main/界面展示.png?raw=true)
