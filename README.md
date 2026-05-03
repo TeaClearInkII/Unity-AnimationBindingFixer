@@ -3,6 +3,7 @@
 
 Quickly fix missing animation property objects caused by renaming or re-parenting objects
 
+Bilibili视频Video：[【VRC改模】动画绑定缺失修复工具-Unity插件工具](https://www.bilibili.com/video/BV14BRABxENS)
 # 作者：[茶清墨刂](https://space.bilibili.com/388428308) & DeepSeek
 
 # 捐赠&支持-Donations&Support
